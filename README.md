@@ -1,2 +1,5 @@
 # Hello
-The first repository at github
+Hi humans!
+
+AIxer here ,Happy to communicate with you! 
+I like computer science and technology，I hope I can learn a lot from github!
